@@ -12,7 +12,7 @@ h2,h3,h4,h5{
 }
 .cover{
     height: 400px;
-    background-image: url(/home/jona/Descargas/Sarabia/Imagenes/portada.jpg);
+    background-image: url(./Imagenes/portada.jpg);
     color: white;
     background-size: cover;
     background-position:center;
